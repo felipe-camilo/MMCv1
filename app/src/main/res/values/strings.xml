@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FCR - MMC</string>
+    <string name="peso">Peso (Ex. 50.5 Kg)</string>
+    <string name="altura">Altura (Ex. 1.50 m)</string>
+    <string name="resposta">""</string>
+    <string name="titulo">IMC</string>
+    <string name="calcular">CALCULAR</string>
+</resources>
