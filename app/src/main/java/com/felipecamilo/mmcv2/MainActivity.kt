@@ -13,7 +13,7 @@ class MainActivity : AppCompatActivity() {
 
 
         btnCalcular.setOnClickListener() {
-            if (txtPeso.text.toString() != "" && txtAltura.text.toString() != "") {
+                if (txtPeso.text.toString() != "" && txtAltura.text.toString() != "") {
 
                 var peso = Float.parseFloat(txtPeso.text.toString())
                 var altura = Float.parseFloat(txtAltura.text.toString())
